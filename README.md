@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Fedor 👋
 
-<!--
-**enclay/enclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Engineer** based in Germany, focused on building scalable backends and exploring the intersection of **AI (LLMs/RAG)** and **Web3 infrastructure**. 
 
-Here are some ideas to get you started:
+### 0x About Me
+- 🛠️ Currently deepening my expertise in **Fullstack Development** and **Solidity**.
+- 🚀 Former Dual Student at **dmTECH**, where I worked on Event Sourcing and LLM plugins.
+- 🏗️ Experience in **C++ (OpenGL)** and **Automotive Tooling (C#)**.
+- 🏆 **ETHGlobal** Hacker (Prague 2025).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Languages:** Java, C++, Go, TypeScript, Solidity, Python
+- **Backend/Cloud:** Spring Boot, Node.js, Docker, Kubernetes, PostgreSQL
+- **AI/ML:** RAG, Vector Databases, OpenAI API, LangChain
+- **Frontend:** React, Next.js
+
+### Top Projects
+- **[artha](https://github.com/enclay/artha):** Cryptocurrency implementation in C++ exploring consensus and P2P networking.
+- **[expense-tracker](https://github.com/enclay/expense-tracker):** Telegram bot leveraging LLMs for natural language expense processing.
+- **[en61](https://github.com/enclay/en61):** Lightweight OpenGL engine for 2D/3D graphics experimentation.
+
+---
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/enclay) | enclayff@gmail.com
