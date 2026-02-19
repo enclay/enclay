@@ -15,6 +15,7 @@ I am a **Software Engineer** based in Germany, focused on building scalable back
 - **Frontend:** React, Next.js
 
 ### Top Projects
+- **[AgriCult](https://github.com/Melody9029/AgriCult):** RWA Marketplace on Flow featuring a custom Solidity Dutch Auction mechanism for organic goods (Team Project).
 - **[artha](https://github.com/enclay/artha):** Cryptocurrency implementation in C++ exploring consensus and P2P networking.
 - **[expense-tracker](https://github.com/enclay/expense-tracker):** Telegram bot leveraging LLMs for natural language expense processing.
 - **[en61](https://github.com/enclay/en61):** Lightweight OpenGL engine for 2D/3D graphics experimentation.
